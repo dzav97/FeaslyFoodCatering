@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Style untuk tombol Home -->
+    <style name="ButtonHome">
+        <item name="android:backgroundTint">#5F87FF</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Style untuk tombol Profile -->
+    <style name="ButtonProfile">
+        <item name="android:backgroundTint">#FF4081</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>
